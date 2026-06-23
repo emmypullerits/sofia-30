@@ -19,7 +19,6 @@ permalink: /firandet/
 - Löparskor och träningskläder
 - Ett vanligt klädombyte
 - Pass/körkort
-<br>
 </details>
 
 Det här är egentligen allt du behöver veta just nu. Känns det för läskigt att inte ha nån kontroll? Klicka dig vidare i så fall 👇🏼
@@ -31,8 +30,6 @@ Det här är egentligen allt du behöver veta just nu. Känns det för läskigt 
 Du och jag (dvs Emmy) ska åka iväg och vara borta över natten. Vi kommer hem imorgon, det är inte spikat exakt när utan det kan du styra lite. Det är inget aktivitetstvång på något sätt, vill du inte springa tar du inte med löparskor osv.
 <br>
 </details>
-
-<br>
 
 <details markdown="1">
 <summary><strong>Mycket spoilers 👀</strong></summary>
