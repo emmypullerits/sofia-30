@@ -3,7 +3,8 @@
 
 @import "minima";
 
-// This is a one-page site, so the theme's navigation and footer are unnecessary.
+// The pages provide their own headings, so the theme chrome is unnecessary.
+.site-header,
 .site-nav,
 .site-footer {
   display: none;
