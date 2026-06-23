@@ -4,8 +4,8 @@ layout: default
 
 # Firandet har bara börjat ✨
 
-📍 **Var:** Triangeln
-🕒 **När:** 14.45
+📍 **Var:** Triangeln<br>
+🕒 **När:** 14.45<br>
 🧳 **Utrustning:** Se packlistan nedan
 
 ## Packlista
