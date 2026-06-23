@@ -20,3 +20,53 @@ details > summary {
   line-height: 1.4;
   padding: 0.35rem 0;
 }
+
+.landing-page {
+  position: fixed;
+  inset: 0;
+  z-index: 10;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-end;
+  align-items: flex-start;
+  overflow-y: auto;
+  padding: clamp(2rem, 7vw, 6rem);
+  color: #fff;
+  background:
+    linear-gradient(to bottom, rgba(0, 0, 0, 0.08) 25%, rgba(0, 0, 0, 0.72) 100%),
+    url("images/birthday-cover.jpg") center 38% / cover no-repeat;
+}
+
+.landing-page h1 {
+  max-width: 12em;
+  margin-bottom: 0.5rem;
+  font-size: clamp(2.4rem, 7vw, 5rem);
+  line-height: 1.05;
+  color: inherit;
+  text-shadow: 0 2px 18px rgba(0, 0, 0, 0.35);
+}
+
+.landing-page p {
+  max-width: 34rem;
+  margin-bottom: 0.75rem;
+  font-size: clamp(1.1rem, 2.5vw, 1.4rem);
+}
+
+.landing-page a {
+  display: inline-block;
+  margin-top: 0.5rem;
+  padding: 0.75rem 1rem;
+  border: 1px solid rgba(255, 255, 255, 0.8);
+  border-radius: 999px;
+  color: #fff;
+  background: rgba(0, 0, 0, 0.25);
+  font-weight: 600;
+  text-decoration: none;
+  backdrop-filter: blur(5px);
+}
+
+.landing-page a:hover {
+  color: #111;
+  background: #fff;
+}

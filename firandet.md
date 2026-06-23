@@ -11,7 +11,6 @@ permalink: /firandet/
 
 <details markdown="1">
 <summary><strong>Packlista 📋</strong></summary>
-<br>
 
 - Badkläder
 - Linsvätska
