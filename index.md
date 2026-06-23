@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 # Firandet har bara börjat ✨
 
 📍 **Var:** Triangeln
@@ -17,14 +21,16 @@ Det här är egentligen allt du behöver veta just nu. Känns det för läskigt 
 
 
 <details markdown="1">
-<summary><strong>Lite spoilers kommer synas när du klickar här 👀</strong></summary>
+<summary><strong>Lite spoilers 👀</strong></summary>
 
 Du och jag (dvs Emmy) ska åka iväg och vara borta över natten. Vi kommer hem imorgon, det är inte spikat exakt när utan det kan du styra lite. Det är inget aktivitetstvång på något sätt, vill du inte springa tar du inte med löparskor osv.
 
 </details>
 
+---
+
 <details markdown="1">
-<summary><strong>Ännu mer spoilers kommer synas när du klickar här 👀 👀 👀</strong></summary>
+<summary><strong>Mycket spoilers 👀</strong></summary>
 
 Vi ska till Köpenhamn! 🇩🇰 Jag har fixat det viktigaste, vi har någonstans att bo och så, men resten är inte ett fullspäckat schema. Jag har förberett lite olika förslag som jag tänkte att du ska få välja mellan utifrån humör/energinivå — men du får såklart välja nåt helt annat också!
 
@@ -33,8 +39,9 @@ Vi ska till Köpenhamn! 🇩🇰 Jag har fixat det viktigaste, vi har någonstan
 <details markdown="1">
 <summary><strong>🌇 När vi har kommit fram</strong></summary>
 
-- 🏊 Hänga vid poolen på taket
-- ☕ Ge oss ut på fikajakt och leta upp nåt bra bageri
+🏊 Hänga vid poolen på taket
+
+☕ Ge oss ut på fikajakt och leta upp nåt bra bageri
 
 </details>
 
@@ -52,22 +59,25 @@ Vi ska till Köpenhamn! 🇩🇰 Jag har fixat det viktigaste, vi har någonstan
 <details markdown="1">
 <summary><strong>🌙 Kvällen</strong></summary>
 
-- 🎡 **Tivoli by night** — planlös promenad bland karusellerna och obligatorisk glass med guf.
-- 🌊 **Brygghäng** — hitta en plats vid vattnet och dingla med benen.
-- 🍿 **Hotellkväll** — raid mot närmaste kiosk, snacks i orimliga mängder och sen häng på rummet.
+🎡 **Tivoli by night** — planlös promenad bland karusellerna och obligatorisk glass med guf.
+
+🌊 **Brygghäng** — hitta en plats vid vattnet och dingla med benen.
+
+🍿 **Hotellkväll** — raid mot närmaste kiosk, snacks i orimliga mängder och sen häng på rummet.
 
 </details>
 
 <details markdown="1">
 <summary><strong>☀️ Morgonen</strong></summary>
 
-- 👟 **Morgonrunda** — springa eller promenera en sväng längs vattnet.
-- 😴 **Sovmorgon** — sova tills vi vaknar och ta dagen därifrån (eventuellt kommer jag ändå vakna 05 av imaginära skrik).
+👟 **Morgonrunda** — springa eller promenera en sväng längs vattnet.
+
+😴 **Sovmorgon** — sova tills vi vaknar och ta dagen därifrån (eventuellt kommer jag ändå vakna 05 av imaginära skrik).
 
 </details>
 
 <details markdown="1">
-<summary><strong>🥪 Dagen och lunchen</strong></summary>
+<summary><strong>🌤️ Dagen efter</strong></summary>
 
 - **Torvehallerne** — strosa runt och hitta något gott till lunch eller fika.
 - **Islands Brygge** — bada i hamnbadet och hänga i solen.

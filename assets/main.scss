@@ -1,0 +1,10 @@
+---
+---
+
+@import "minima";
+
+// This is a one-page site, so the theme's navigation and footer are unnecessary.
+.site-nav,
+.site-footer {
+  display: none;
+}
